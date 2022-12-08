@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 26 22:57:54 SGT 2022
+checker-qual-3.27.0.jar>central=
+checker-qual-3.27.0-javadoc.jar>central=
+checker-qual-3.27.0-sources.jar>central=
+checker-qual-3.27.0.pom>central=

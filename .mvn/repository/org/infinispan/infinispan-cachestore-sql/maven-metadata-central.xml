@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.infinispan</groupId>
+  <artifactId>infinispan-cachestore-sql</artifactId>
+  <versioning>
+    <latest>14.0.2.Final</latest>
+    <release>14.0.2.Final</release>
+    <versions>
+      <version>13.0.0.CR1</version>
+      <version>13.0.0.CR2</version>
+      <version>13.0.0.Final</version>
+      <version>13.0.0.Dev04</version>
+      <version>13.0.1.Final</version>
+      <version>13.0.2.Final</version>
+      <version>13.0.3.Final</version>
+      <version>13.0.4.Final</version>
+      <version>13.0.5.Final</version>
+      <version>13.0.6.Final</version>
+      <version>13.0.7.Final</version>
+      <version>13.0.8.Final</version>
+      <version>13.0.9.Final</version>
+      <version>13.0.10.Final</version>
+      <version>13.0.11.Final</version>
+      <version>13.0.12.Final</version>
+      <version>14.0.0.CR1</version>
+      <version>14.0.0.CR2</version>
+      <version>14.0.0.Final</version>
+      <version>14.0.0.Dev01</version>
+      <version>14.0.0.Dev02</version>
+      <version>14.0.0.Dev03</version>
+      <version>14.0.0.Dev04</version>
+      <version>14.0.1.Final</version>
+      <version>14.0.2.Final</version>
+    </versions>
+    <lastUpdated>20221024122108</lastUpdated>
+  </versioning>
+</metadata>

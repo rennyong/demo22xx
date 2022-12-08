@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 08 21:29:51 SGT 2022
+jakarta.validation-api-2.0.2-javadoc.jar>central=
+jakarta.validation-api-2.0.2-sources.jar>central=
+jakarta.validation-api-2.0.2.pom>central=
